@@ -347,3 +347,6 @@ style{
     text-decoration: none;
     color: white;
 }
+.footer-home:hover{
+    color: red;
+}
